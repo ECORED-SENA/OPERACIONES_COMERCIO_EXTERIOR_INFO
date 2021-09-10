@@ -35,7 +35,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe width="560" height="315" src="https://www.youtube.com/embed/9ooh4RS20bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
+            | <iframe width="560" height="315" src="https://www.youtube.com/embed/ppE5ucJiiFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                   
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -86,6 +86,9 @@ section
       li 
         i.lista-ul__vineta
         | Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la normatividad vigente.
+      li 
+        i.lista-ul__vineta
+        | Fomentar la cultura emprendedora según habilidades y competencias personales.
       li 
         i.lista-ul__vineta
         | Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales.
