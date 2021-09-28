@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Técnico laboral en operaciones de comercio exterior 
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 122708
+                p.banner-principal__datos__item__texto 134600
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Total: 
                 p.banner-principal__datos__item__texto 2208 Horas
@@ -50,7 +50,7 @@ section
 
     p La tecnificación de los procesos logísticos y de operaciones de comercio exterior, mediante el uso de las tecnologías de la información para la cualificación a nivel de técnico laboral o de quienes ejercen tales funciones hace que el desempeño de las actividades sea más eficiente. Por tanto, el SENA está comprometido con la modernización y cualificación del talento humano en aras del cumplimiento de los objetivos y desarrollo del Estado colombiano.
     p En consecuencia, el Plan Nacional de Desarrollo - PND 2018-2022 “Pacto por Colombia, Pacto por la Equidad” establece cuatro objetivos para aprovechar al máximo las ventajas en el acceso a los mercados internacionales, estos son: (1) ampliar la oferta exportable y los mercados de destino; (2) optimizar los procesos de comercio exterior, a través del uso de las herramientas de facilitación del comercio, en línea con el Acuerdo sobre Facilitación del Comercio; (3) incrementar el monto de inversión dirigida a lograr una mayor eficiencia productiva en las empresas; y (4) incentivar el desarrollo de megaproyectos de inversión de alto impacto económico. 
-    p Asimismo, el informe de la Organización Mundial del Comercio – OMC (2020) resalta la importancia de crear nuevos conocimientos mediante la invención, para luego ser divulgados utilizando el sistema educativo y su importancia radica en que las políticas orientadas al exterior permiten a los países acceder a tecnología avanzada mediante la importación de bienes de capital y de la participación en las cadenas de valor mundiales.
+    p Asimismo, el informe de la Organización Mundial del Comercio – OMC (2020) resalta la importancia de crear nuevos conocimientos mediante la invención, para luego ser divulgados utilizando el sistema educativo y su importancia radica en que las políticas orientadas al exterior, permiten a los países acceder a tecnología avanzada mediante la importación de bienes de capital y de la participación en las cadenas de valor mundiales.
     p.mb-0 Por lo anterior, el SENA en su estrategia de redes de conocimiento a través de la Red de Logística y Gestión de la Producción ha diseñado el programa Técnico laboral en operaciones de comercio exterior, el cual forma al aprendiz en actividades aduaneras, portuarias, de logística y transporte, para su posterior vinculación en empresas del sector. Se puede desempeñar en áreas como zonas aduaneras, portuarias y francas, cruces de frontera, así como también en operaciones contempladas en la normativa aduanera. 
  
 
@@ -67,7 +67,7 @@ section
         | Coordinar el transporte según rutas y medios.
       li 
         i.lista-ul__vineta
-        | Calcular costos de operación de acuerdo con los métodos.
+        | Calcular costos de operación de acuerdo con métodos.
       li 
         i.lista-ul__vineta
         | Tramitar documentos según la normativa aduanera.
@@ -94,7 +94,7 @@ section
         | Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales.
       li 
         i.lista-ul__vineta
-        | Desarrollar procesos de comunicación oral y escrita, en forma eficaz y efectiva, teniendo en cuenta situaciones de orden social, personal y productivo. 
+        | Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo.
       li 
         i.lista-ul__vineta
         | Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.
